@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\A-Day\bin\Debug\net5.0\A-Day.exe
+C:\Users\admin\Desktop\A-Day\bin\Debug\net5.0\A-Day.deps.json
+C:\Users\admin\Desktop\A-Day\bin\Debug\net5.0\A-Day.runtimeconfig.json
+C:\Users\admin\Desktop\A-Day\bin\Debug\net5.0\A-Day.runtimeconfig.dev.json
+C:\Users\admin\Desktop\A-Day\bin\Debug\net5.0\A-Day.dll
+C:\Users\admin\Desktop\A-Day\bin\Debug\net5.0\ref\A-Day.dll
+C:\Users\admin\Desktop\A-Day\bin\Debug\net5.0\A-Day.pdb
+C:\Users\admin\Desktop\A-Day\obj\Debug\net5.0\A-Day.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\A-Day\obj\Debug\net5.0\A-Day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\A-Day\obj\Debug\net5.0\A-Day.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\A-Day\obj\Debug\net5.0\A-Day.AssemblyInfo.cs
+C:\Users\admin\Desktop\A-Day\obj\Debug\net5.0\A-Day.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\A-Day\obj\Debug\net5.0\A-Day.dll
+C:\Users\admin\Desktop\A-Day\obj\Debug\net5.0\ref\A-Day.dll
+C:\Users\admin\Desktop\A-Day\obj\Debug\net5.0\A-Day.pdb
+C:\Users\admin\Desktop\A-Day\obj\Debug\net5.0\A-Day.genruntimeconfig.cache
